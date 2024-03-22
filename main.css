@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 80px;
+    background-color: rgba(234, 232, 113, 0.99); 
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex; 
+    position: relative;
+
+}
+
+.header .header-title {
+    margin-left: 30px;
+    margin-top: 8px;
+    height: 60px;
+    width: auto;
+ 
+    
+
+
+}
